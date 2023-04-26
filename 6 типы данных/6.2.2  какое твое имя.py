@@ -1,0 +1,1 @@
+print('Hello ' + input() + ' ' + input() + '! You just delved into Python')
