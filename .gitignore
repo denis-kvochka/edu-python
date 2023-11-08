@@ -131,4 +131,5 @@ dmypy.json
 # kdv
 tinkoff.py
 test.py
-
+vscode-keyboard-shortcuts-linux.pdf
+.vscode/
